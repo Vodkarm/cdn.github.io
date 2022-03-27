@@ -3,7 +3,7 @@
 Command 1:
 
 ```
-curl https://vodkarm-cdn.github.io/files/get-pip.py -o get-pip.py
+curl https://vodkarm.github.io/cdn.github.il/files/get-pip.py -o get-pip.py
 ```
 
 Command 2:
