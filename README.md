@@ -1,5 +1,5 @@
-# vodkarm-cdn.github.io
+# repos off
 
 This is just my own CDN
 
-Acces url: https://vodkarm.github.io/cdn.github.io/
+Acces url: https://cdn.darling-cloud.com/
